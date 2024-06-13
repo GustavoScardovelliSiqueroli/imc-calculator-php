@@ -1,0 +1,1 @@
+document.querySelector("#re-calc").addEventListener('click', ()=>{document.location.href = "index.php"})
